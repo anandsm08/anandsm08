@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🌱 I’m currently learning **Flutter,Dart**<br><br>- 👨‍💻 All of my projects are available on [my portfolio](https://anxnd.me)<br><br>- 📫 How to reach me @ [mail](codinand@gmail.com)<br><br>- ⚡ Fun fact **Well there's no fun
+<br>- 🌱 I’m currently learning **Flutter,Dart**<br><br>- 👨‍💻 All of my projects are available on [my portfolio](https://anxnd.ml)<br><br>- 📫 How to reach me @ [mail](codinand@gmail.com)<br><br>- ⚡ Fun fact **Well there's no fun
 
 
 ## 🌐 Socials:
